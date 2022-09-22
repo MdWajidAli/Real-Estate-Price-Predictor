@@ -3,9 +3,13 @@
 
 A Machine Learning Project : Real Estate Price Predictor made using Python and its libraries : Panda ,Numpy, Scikit Learn, and IDE : Jupyter Notebook
 
+![Installing libraries](https://user-images.githubusercontent.com/106772487/191845368-78653348-4de7-45c0-94bf-480d7f1b8b38.png)
+
 
 
 I started with importing pandas ,imported dataset excel sheet to a variable housing, accessed different attributes from the dataset and checked their counts.
+
+
 
 ### Important steps as we start with the project :
 
