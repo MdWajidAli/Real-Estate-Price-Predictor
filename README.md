@@ -79,6 +79,8 @@ Having a wealth of options is good, but deciding on which model to implement in 
 ## 8.Cross Validation :
 It is a technique in which we train our model using the subset of the data-set and then evaluate using the complementary subset of the data-set.
 
+![Cross Validation](https://user-images.githubusercontent.com/106772487/191848040-a835a931-4510-4dc2-99e3-666ec89d1041.png)
+
 The three steps involved in cross-validation are as follows :
 
 - Reserve some portion of sample data-set.
