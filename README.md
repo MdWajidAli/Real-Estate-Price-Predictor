@@ -76,7 +76,7 @@ A Machine Learning pipeline is a process of automating the workflow of a complet
 ## 7.Selecting the desired model :
 Having a wealth of options is good, but deciding on which model to implement in production is crucial. Though we have a number of performance metrics to evaluate a model, it’s not wise to implement every algorithm for every problem. This requires a lot of time and a lot of work. So it’s important to know how to select the right algorithm for a particular task.
 
-
+![Evaluating models](https://user-images.githubusercontent.com/106772487/191848797-a0aab134-c699-466c-86f3-6a1189ad9f4f.png)
 
 ## 8.Cross Validation :
 It is a technique in which we train our model using the subset of the data-set and then evaluate using the complementary subset of the data-set.
