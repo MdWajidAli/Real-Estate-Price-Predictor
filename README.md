@@ -81,9 +81,10 @@ It is a technique in which we train our model using the subset of the data-set a
 
 The three steps involved in cross-validation are as follows :
 
-1.Reserve some portion of sample data-set.
-2.Using the rest data-set train the model.
-3.Test the model using the reserve portion of the data-set.
+- Reserve some portion of sample data-set.
+- Using the rest data-set train the model.
+- Test the model using the reserve portion of the data-set.
+
 
 ## 9.Decision Tree Classification :
 Decision Tree is a Supervised learning technique that can be used for both classification and Regression problems, but mostly it is preferred for solving Classification problems. It is a tree-structured classifier, where internal nodes represent the features of a dataset, branches represent the decision rules and each leaf node represents the outcome.
