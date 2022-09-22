@@ -3,14 +3,11 @@
 
 A Machine Learning Project : Real Estate Price Predictor made using Python and its libraries : Panda ,Numpy, Scikit Learn, and IDE : Jupyter Notebook
 
-[
-![Installing libraries](https://user-images.githubusercontent.com/106772487/191841695-a950aec6-ed37-4a30-8d92-e39f3efff742.png)
-](url)
 
-### Important steps as we start with the project :
 
 I started with importing pandas ,imported dataset excel sheet to a variable housing, accessed different attributes from the dataset and checked their counts.
 
+### Important steps as we start with the project :
 
 ## 1. Train-Test Spitting :
 
@@ -21,6 +18,8 @@ Syntax :
 
 	train_test_split(*arrays, test_size=None, train_size=None, random_state=None, shuffle=True, stratify=None)
 	
+
+
 
 
 
