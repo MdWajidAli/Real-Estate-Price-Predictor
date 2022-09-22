@@ -41,6 +41,9 @@ Attribute subset Selection is a technique which is used for data reduction.Attri
 
 The data set may have a large number of attributes. But some of those attributes can be irrelevant or redundant. The goal of attribute subset selection is to find a minimum set of attributes such that dropping of those irrelevant attributes does not much affect the utility of data and the cost of data analysis could be reduced. Mining on a reduced data set also makes the discovered pattern easier to understand.
 
+![RM vs TAXRM ](https://user-images.githubusercontent.com/106772487/191847392-d5f6d4f0-f289-4bad-9db3-7a8b429310ad.png)
+
+
 -Methods of Attribute Subset Selection-
 
 - Stepwise Forward Selection.
