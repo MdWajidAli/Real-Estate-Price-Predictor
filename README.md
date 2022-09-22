@@ -31,7 +31,10 @@ Syntax :
 ## 2. Looking for Coorrelations :
 Correlation can be an important tool for feature engineering in building machine learning models. Predictors which are uncorrelated with the objective variable are probably good candidates to trim from the model (shoe size is not a useful predictor for salary). In addition, if two predictors are strongly correlated to each other, then we only need to use one of them (in predicting salary, there is no need to use both age in years, and age in months). Taking these steps means that the resulting model will be simpler, and simpler models are easier to interpret.
 
+![Attributes Histograms](https://user-images.githubusercontent.com/106772487/191847069-bec6c913-97b2-4b5c-9626-4ef697a3d730.png)
+
 There are many measures for correlation, but by far the most widely used one is Pearson’s Product-Moment coefficient, or Pearson’s r. Given a collection of paired (x,y) values, Pearson’s coefficient produces a value between -1 and +1 to quantify the strength of dependence between the variables x and y. A value of +1 means that all the (x,y) points lie exactly on a line with positive slope, and inversely, a value of -1 means that all of the points lie exactly on a line with negative slope. A Pearson’s coefficient of 0 means that there is no relationship between the two variables.
+
 
 ## 3. Trying out Attribute Combinations :
 Attribute subset Selection is a technique which is used for data reduction.Attribute subset Selection is a technique which is used for data reduction.
