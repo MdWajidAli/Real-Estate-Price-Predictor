@@ -100,3 +100,5 @@ Testing identifies explicitly which part of the code fails and provides a relati
 
 Quality assurance; whether the software works according to requirements, and
 Identify defects and flaws during development and in production.
+
+![Testing the model](https://user-images.githubusercontent.com/106772487/191848309-ba5a0720-4ab3-4ef8-b837-7826937a3891.png)
