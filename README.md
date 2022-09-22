@@ -23,6 +23,7 @@ Syntax :
 	train_test_split(*arrays, test_size=None, train_size=None, random_state=None, shuffle=True, stratify=None)
 	
 
+![Train and Test data splittin](https://user-images.githubusercontent.com/106772487/191845811-84c75768-8bff-4055-b97a-72a0110acf5c.png)
 
 
 
@@ -37,20 +38,20 @@ Attribute subset Selection is a technique which is used for data reduction.Attri
 
 The data set may have a large number of attributes. But some of those attributes can be irrelevant or redundant. The goal of attribute subset selection is to find a minimum set of attributes such that dropping of those irrelevant attributes does not much affect the utility of data and the cost of data analysis could be reduced. Mining on a reduced data set also makes the discovered pattern easier to understand.
 
-Methods of Attribute Subset Selection-
+-Methods of Attribute Subset Selection-
 
-Stepwise Forward Selection.
-Stepwise Backward Elimination.
-Combination of Forward Selection and Backward Elimination.
-Decision Tree Induction.
+- Stepwise Forward Selection.
+- Stepwise Backward Elimination.
+- Combination of Forward Selection and Backward Elimination.
+- Decision Tree Induction.
 
 ## 4.Scikit-Learn Design :
 Scikit-Learn. Scikit-Learn is a powerful, rich, and extensive Python library for implementing machine learning. The library provides tools for modeling (e.g., classification, regression, and clustering algorithms), model selection (e.g., grid search), preprocessing (e.g., feature extraction), and more. I maintain that the success of the library has as much to do with its interface and ease of use, as it does with its powerful and profound functionality.
 
-Primarily , three types of objects
-1.Estimators
-2.Transformers
-3.Predictors
+-Primarily , three types of objects
+- Estimators
+- Transformers
+- Predictors
 
 ## 5.Feature Scaling :
 Primarily, 2 types of feature scaling methods:
