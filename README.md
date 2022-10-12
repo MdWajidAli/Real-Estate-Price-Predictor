@@ -1,7 +1,7 @@
 # Real-Estate-Price-Predictor
 
 
-A Machine Learning Project : Real Estate Price Predictor made using Python and its libraries : Panda ,Numpy, Scikit Learn, and IDE : Jupyter Notebook
+A Machine Learning Project : Real Estate Price Predictor made using Python and its libraries : Panda ,Numpy, Matplotlib, Scikit Learn, and IDE : Jupyter Notebook
 
 ![Installing libraries](https://user-images.githubusercontent.com/106772487/191845368-78653348-4de7-45c0-94bf-480d7f1b8b38.png)
 
